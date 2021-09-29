@@ -9,4 +9,17 @@ Tonynaibclztd's primary objective in collecting user information is to provide a
 
 You understand and agree that we may be required to disclose any personal information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to avoid liability, to comply with legal process, including but not limited to a search warrant, subpoena, statute, or court order, or to protect our rights and property, or that of the public. Note that "Tonynaibclztd" is not required to question or contest the validity of any search warrant, subpoena or other similar governmental request that "Tonynaibclztd" may receive. Additionally, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, customer information may be transferred to Tonynaibclztd's successor or assignee, if permitted by and done in accordance with applicable law.
 
+# Security
+
+We have put in place reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure. However, we cannot guarantee that unauthorized third parties will never be able to overcome those measures or use your personal information for improper purposes. Also please note that email and messaging systems are not considered secure, so we discourage you from sending us personal information through these mediums.
+
+# Policy Regarding Children
+
+The Service is not geared toward children under the age of 13 and we do not knowingly collect personal information from children under the age of 13. If we learn that a child under 13 has provided us with personal information we will delete such information from our files as quickly as possible.
+
+
+# Contacting Us
+
+If you have any questions about this Privacy Policy, please contact us at tonynaibclztd@gmail.com
+
 
